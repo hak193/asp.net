@@ -1,0 +1,12 @@
+c:\Users\Adminstrator\asp.net\firstDotnetProject.ServiceDefaults\bin\Debug\net8.0\firstDotnetProject.ServiceDefaults.deps.json
+c:\Users\Adminstrator\asp.net\firstDotnetProject.ServiceDefaults\bin\Debug\net8.0\firstDotnetProject.ServiceDefaults.dll
+c:\Users\Adminstrator\asp.net\firstDotnetProject.ServiceDefaults\bin\Debug\net8.0\firstDotnetProject.ServiceDefaults.pdb
+c:\Users\Adminstrator\asp.net\firstDotnetProject.ServiceDefaults\obj\Debug\net8.0\firstDotnetProject.ServiceDefaults.csproj.AssemblyReference.cache
+c:\Users\Adminstrator\asp.net\firstDotnetProject.ServiceDefaults\obj\Debug\net8.0\firstDotnetProject.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Adminstrator\asp.net\firstDotnetProject.ServiceDefaults\obj\Debug\net8.0\firstDotnetProject.ServiceDefaults.AssemblyInfoInputs.cache
+c:\Users\Adminstrator\asp.net\firstDotnetProject.ServiceDefaults\obj\Debug\net8.0\firstDotnetProject.ServiceDefaults.AssemblyInfo.cs
+c:\Users\Adminstrator\asp.net\firstDotnetProject.ServiceDefaults\obj\Debug\net8.0\firstDotnetProject.ServiceDefaults.csproj.CoreCompileInputs.cache
+c:\Users\Adminstrator\asp.net\firstDotnetProject.ServiceDefaults\obj\Debug\net8.0\firstDotnetProject.ServiceDefaults.dll
+c:\Users\Adminstrator\asp.net\firstDotnetProject.ServiceDefaults\obj\Debug\net8.0\refint\firstDotnetProject.ServiceDefaults.dll
+c:\Users\Adminstrator\asp.net\firstDotnetProject.ServiceDefaults\obj\Debug\net8.0\firstDotnetProject.ServiceDefaults.pdb
+c:\Users\Adminstrator\asp.net\firstDotnetProject.ServiceDefaults\obj\Debug\net8.0\ref\firstDotnetProject.ServiceDefaults.dll

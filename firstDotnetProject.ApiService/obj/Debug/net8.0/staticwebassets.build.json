@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aZbmQGqXZQ6GalULo/NDHqTx4ayT5a/t7VjAh0NIwUQ=",
+  "Source": "firstDotnetProject.ApiService",
+  "BasePath": "_content/firstDotnetProject.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
